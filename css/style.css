@@ -1,0 +1,9 @@
+html, body { margin: 0; padding: 0; }
+header { padding: 20px; height: 40px; background: pink; }
+footer { padding: 20px; height: 40px; background: rgba(214, 44, 214, 0.538); }
+.img-poster {
+width: 300px;
+}
+.img-10 {
+  width: 300px;
+}
